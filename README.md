@@ -14,7 +14,8 @@ I'm interested in natural language processing (NLP), data analytics, virtualizat
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ...
-  
+  ![Commit Animation](./OPM.gif)
+  "Unleashing Code, One Commit at a Time."
   ## 📊 **GitHub Stats**
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
