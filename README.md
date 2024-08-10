@@ -3,13 +3,13 @@
 # 🙏 Namaskaram! I'm Tushaar
 ![Wotakai Animation](./wotakai2.gif)
 
-## Software Developer | Tech Enthusiast | Lifelong Learner
+Software Developer | Tech Enthusiast | Lifelong Learner
 I'm interested in natural language processing (NLP), data analytics, virtualization, and software development.
 
 ## **From E-Rank to S-Rank Developer:**
 ![Jumping Animation](./sung-jin-woo-jing-woo.gif)
 
-Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.
+<p>Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.</p>
 
 ## 🛠 **Skills & Tools**
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -28,7 +28,7 @@ Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World
 
 ![Commit Animation](./OPM.gif)
 
-"Unleashing Code, One Commit at a Time."
+<p>"Unleashing Code, One Commit at a Time."</p>
 
 ## 📊 **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YTushaar&show_icons=true&theme=radical)
