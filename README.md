@@ -5,8 +5,7 @@ I'm interested in natural language processing (NLP), data analytics, virtualizat
 
 
   ## **From E-Rank to S-Rank Developer:**
-
-  
+  ![Jumping Animation](./sung-jin-woo-jing-woo.gif)
   Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.
   
   ## 🛠 **Skills & Tools**
