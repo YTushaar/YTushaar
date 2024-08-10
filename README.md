@@ -1,7 +1,10 @@
 <div align="center">
 
 # 🙏 Namaskaram! I'm Tushaar
-![Wotakai Animation](./wotakai2.gif)
+<div class = "datanotlies">
+  <img src="data-code.gif" style="margin-right: 10px; ;" width="200px" height="200px" border ="5">
+  <img src="wotakai2.gif" style="margin-left: 10px;" width="200px" height="200px" border ="5">
+  </div>
 
 Software Developer | Tech Enthusiast | Lifelong Learner
 I'm interested in natural language processing (NLP), data analytics, virtualization, and software development.
@@ -24,13 +27,13 @@ I'm interested in natural language processing (NLP), data analytics, virtualizat
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-...
 
+## 📊 **GitHub Stats**
 ![Commit Animation](./OPM.gif)
 
 <p>"Unleashing Code, One Commit at a Time."</p>
 
-## 📊 **GitHub Stats**
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YTushaar&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YTushaar&layout=compact&theme=radical)
 
