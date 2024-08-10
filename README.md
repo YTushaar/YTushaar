@@ -2,8 +2,8 @@
 
 # 🙏 Namaskaram! I'm Tushaar
 <div class = "datanotlies">
-  <img src="data-code.gif" style="margin-right: 10px; ;" width="200px" height="200px" border ="5">
-  <img src="wotakai2.gif" style="margin-left: 10px;" width="200px" height="200px" border ="5">
+  <img src="data-code.gif" style="margin-right: 10px border-color:bisque;" width="200px" height="200px" border ="5" >
+  <img src="wotakai2.gif" style="margin-left: 10px; border-color:bisque" width="200px" height="200px" border ="5">
   </div>
 
 Software Developer | Tech Enthusiast | Lifelong Learner
