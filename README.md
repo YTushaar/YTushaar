@@ -1,4 +1,4 @@
-![Minecraft Coding](./minecraft.jpg)
+<div classname="minecraft" style: {width="50px" height="50px"}>![Minecraft Coding](./minecraft.jpg)</div>
 <div align="center">
 
   # 🙏 Namaskaram! I'm Tushaar
