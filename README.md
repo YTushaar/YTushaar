@@ -2,9 +2,7 @@
 
 # 🙏 Namaskaram! I'm Tushaar
 ![Coding](./wotakai2.gif)
-<div class = "datanotlies">
-  <img src="wotakai2.gif" style="margin-left: 10px;" width="200px" height="200px" border ="5">
-  </div>
+
 
 Software Developer | Tech Enthusiast | Lifelong Learner
 I'm interested in natural language processing (NLP), data analytics, virtualization, and software development.
