@@ -1,13 +1,13 @@
 <div align="center">
 
-  ## **From E-Rank to S-Rank Developer:**
-  **Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.**
+  # 🙏 Namaskaram! I'm Tushaar
 
   <img src="https://example.com/your_solo_leveling_image.jpg" alt="Solo Leveling Image" width="400" />
 
-  # Hi, I'm [Your Name] 👋
+  ## **From E-Rank to S-Rank Developer:**
+  **Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushaar-blue)](https://www.linkedin.com/in/tushaar/)
   [![Twitter](https://img.shields.io/badge/Twitter-@YourHandle-1DA1F2)](https://twitter.com/yourhandle)
   
   ## **Software Developer | Tech Enthusiast | Lifelong Learner**
@@ -36,7 +36,7 @@
   
   ## 🤝 **Connect with Me**
   - [Portfolio Website](https://yourwebsite.com)
-  - [LinkedIn](https://www.linkedin.com/in/yourname/)
+  - [LinkedIn](https://www.linkedin.com/in/tushaar/)
   
   ### ✨ **Thank You for Visiting!**
   ![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
