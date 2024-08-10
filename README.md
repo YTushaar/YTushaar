@@ -1,14 +1,12 @@
 <div align="center">
-
+![Minecraft Coding](./minecraft.jpg)
   # 🙏 Namaskaram! I'm Tushaar
 ## Software Developer | Tech Enthusiast | Lifelong Learner
 I'm interested in natural language processing (NLP), data analytics, virtualization, and software development.
-<div class="tenor-gif-embed" data-postid="27290753" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/data-code-coding-facts-numbers-gif-27290753">Data Code Sticker</a>from <a href="https://tenor.com/search/data-stickers">Data Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
   ## **From E-Rank to S-Rank Developer:**
-  **Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.**
-<div class="tenor-gif-embed" data-postid="3890817004675083597" data-share-method="host" data-aspect-ratio="1.77857" data-width="100%"><a href="https://tenor.com/view/sung-jin-woo-jing-woo-solo-leveling-assassin-murderous-intent-gif-3890817004675083597">Sung Jin Woo Jing Woo GIF</a>from <a href="https://tenor.com/search/sung+jin+woo-gifs">Sung Jin Woo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  **Embracing Challenges, Conquering Code, and Continuously Leveling Up in the World of Development.**.com/search/sung+jin+woo-gifs">Sung Jin Woo GIFs</a></div> 
   
   ## 🛠 **Skills & Tools**
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,8 +20,7 @@ I'm interested in natural language processing (NLP), data analytics, virtualizat
   
   
   ##🤝 Let's Connect
-  - [Portfolio Website](https://yourwebsite.com)
-  - [LinkedIn](https://www.linkedin.com/in/tushaar/)
+  - [LinkedIn](linkedin.com/in/yenduri-tushaar-6b10a822b)
   
   ##✨ Thank You for Visiting!
 
