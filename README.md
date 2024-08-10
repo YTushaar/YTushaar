@@ -1,4 +1,6 @@
-<div classname="minecraft" >![Minecraft Coding](./minecraft.jpg)</div>
+<div>
+  href="./minecraft.jpg"
+</div>
 <div align="center">
 
   # 🙏 Namaskaram! I'm Tushaar
