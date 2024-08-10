@@ -1,5 +1,6 @@
-<div align="center">
 ![Minecraft Coding](./minecraft.jpg)
+<div align="center">
+
   # 🙏 Namaskaram! I'm Tushaar
 ## Software Developer | Tech Enthusiast | Lifelong Learner
 I'm interested in natural language processing (NLP), data analytics, virtualization, and software development.
